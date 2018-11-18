@@ -1,0 +1,6 @@
+USE ftez2cj4rm83gm8n;
+CREATE TABLE burgers(
+	id INTEGER(3) AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    burger_name VARCHAR(50) NOT NULL,
+    devoured BOOLEAN DEFAULT 0
+);
