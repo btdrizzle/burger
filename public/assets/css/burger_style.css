@@ -1,6 +1,17 @@
 body {
     background-color: #30a3ea;
 };
-#burgerPic {
-    max-width: 200px;
+h1,h2,h3 {
+    font-family: 'Shrikhand', cursive;
 };
+#burgerPic {
+    max-width: 150px;
+    display: block;
+};
+.theBurgers p {
+    text-emphasis: bold;
+    font-size: 2rem;
+};
+
+
+
