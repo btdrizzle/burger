@@ -5,8 +5,9 @@ h1,h2,h3 {
     font-family: 'Shrikhand', cursive;
 }
 #burgerPic {
-    max-width: 150px;
+    max-width: 250px;
     display: block;
+    margin: auto;
 }
 p {
     text-emphasis: bold;
